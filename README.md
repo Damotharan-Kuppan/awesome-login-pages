@@ -90,6 +90,7 @@ A Project which includes curated list of different login page web pages.
 
 - For contribution please check [contribution guideline](https://github.com/LoginRadius/awesome-login-pages/blob/main/CONTRIBUTING.md)
 - Please check the [issue list](https://github.com/LoginRadius/awesome-login-pages/issues) .
+- Please reach out to email test.us@gmail.com for any qeuries related to contribution
 
 ## CONTRIBUTORS
 Amazing person who made their contributions. Feel free to contribute!
